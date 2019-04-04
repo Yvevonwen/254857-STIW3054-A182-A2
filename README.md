@@ -28,6 +28,7 @@ Thread-5: Display the information of STIW3054 (Bil, Code, Course, date and time)
 ### https://www.youtube.com/watch?v=tN5ODP1ju3E&feature=youtu.be
 
 # 6.References
+- PDFBox - Environment (Installing PDFBox). https://www.tutorialspoint.com/pdfbox/pdfbox_environment.htm
 - PDFBox – How to read PDF file in Java. https://www.mkyong.com/java/pdfbox-how-to-read-pdf-file-in-java/
 - Java 8 Difference Between Two Dates.https://howtodoinjava.com/java8/calculate-difference-between-two-dates-in-java/
 - Pattern Matching with Regular Expressions. https://www.oreilly.com/library/view/java-cookbook-3rd/9781449338794/ch04.html
